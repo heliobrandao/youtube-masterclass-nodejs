@@ -17,7 +17,6 @@ http.createServer((req, res) => {
     filePath,
     (err, content) => {
       if(err) throw err
-
       res.end(content)
     }
   )

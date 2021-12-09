@@ -10,7 +10,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^2.0.15"
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "npm": "^8.2.0"
   }
 }
